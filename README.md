@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @niamhkatkennedy
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python
 
-<!---
-niamhkatkennedy/niamhkatkennedy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m Niamh!👋
+- Currently in university studying Computer Systems Management, which will progress to a BSc in Digital Forensics and Cybersecurity
+- Also, working towards attaining the CCNA
+
+Qualifications: Diploma in Networking and Systems Security
+Certifications: CompTIA Security+, MTA Security Fundamentals, Oracle Java Foundations, ISTQB Certified Tester
