@@ -1,6 +1,11 @@
+Hi!👋
 
-- Hi, I’m Niamh!👋
-- Currently earning a BSc in Digital Forensics and Cybersecurity
-- Also, working towards attaining the CCNA
-- Qualifications: Higher Certificate in Computer Systems Management, Diploma in Networking and Systems Security
-- Certifications: CompTIA Security+, MTA Security Fundamentals, Oracle Java Foundations, ISTQB Certified Tester
+BSc in Digital Forensics and Cyber Security student and asipring cyber security analyst
+
+Hold several industry certifications such as CompTIA Security+, MTA Security Fundamentals, Oracle Java Foundations, and ISTQB Certified Tester
+
+Current projects include CCNA certification, Linux and Python 
+
+Particularly interested in digital forensics
+
+Hobbies include gaming and PC building
